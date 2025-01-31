@@ -1,0 +1,36 @@
+/*estilos do corpo do site*/
+body{
+  font-family: Arial;
+  margin: 30px;
+}
+/*estlos do cabeçalho do site*/
+h1{
+  background: dodgerblue;
+  color: aliceblue;
+  padding: 30px;
+  text-align: center;
+  border-radius: 10px;
+}
+/*estilos da class tarefa*/
+.tarefa{
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  margin: 5px;
+}
+/*estlos do botão de marcar tarefas*/
+. higlightbutton{
+  background color:  aliceblue;
+}
+/*estilos do output*/
+#output{
+  margin-top: 10 px;
+  color: green;
+}
+
+
+
+
+
+
+
